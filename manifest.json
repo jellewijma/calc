@@ -5,8 +5,8 @@
   "background_color": "#fff",
   "display": "standalone",
   "orientation": "any",
-  "scope": "/",
-  "start_url": "/index.html",
+  "scope": "/calc/",
+  "start_url": "calc/index.html",
   "icons": [
     {
       "src": "images/icons/icon-72x72.png",
